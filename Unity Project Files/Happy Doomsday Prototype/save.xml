@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<savegame>
+  <food current="895" max="3000" />
+  <water current="850" max="3000" />
+  <scrap current="85" max="500" />
+  <experience current="25" max="500" />
+  <invasiontimer next="222.2162" />
+  <compoundlevel current="1" max="10" />
+  <playerhouse level="1" health="400" />
+  <structure prefabName="Well" xPos="12" yPos="0" zPos="14" level="1" health="100" maxHealth="100" />
+</savegame>

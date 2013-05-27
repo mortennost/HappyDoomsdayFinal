@@ -1,0 +1,240 @@
+System:
+  OS: Windows 7 Service Pack 1 (6.1.7601) 64bit
+  CPU: Intel(R) Core(TM) i5-2450M CPU @ 2.50GHz, count: 4
+  Physical RAM: 6058 MB
+  Addressable RAM: 2048 MB
+
+D3D9:
+  Renderer: Mobile Intel(R) HD Graphics
+  VendorID: 8086
+  Driver: aticfx32.dll 8.17.10.1083
+  VRAM: 1070 (via DXGI)
+
+OpenGL:
+  Version: 3.0.0 - Build 8.15.10.2353
+  Vendor: Intel
+  Renderer: Mobile Intel(R) HD Graphics
+  VRAM: 1070 (via DXGI)
+  Extensions: GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_blend_color GL_EXT_abgr GL_EXT_texture3D GL_EXT_clip_volume_hint GL_EXT_compiled_vertex_array GL_SGIS_texture_edge_clamp GL_SGIS_generate_mipmap GL_EXT_draw_range_elements GL_SGIS_texture_lod GL_EXT_rescale_normal GL_EXT_packed_pixels GL_EXT_texture_edge_clamp GL_EXT_separate_specular_color GL_ARB_multitexture GL_EXT_texture_env_combine GL_EXT_bgra GL_EXT_blend_func_separate GL_EXT_secondary_color GL_EXT_fog_coord GL_EXT_texture_env_add GL_ARB_texture_cube_map GL_ARB_transpose_matrix GL_ARB_texture_env_add GL_IBM_texture_mirrored_repeat GL_EXT_multi_draw_arrays GL_NV_blend_square GL_ARB_texture_compression GL_3DFX_texture_compression_FXT1 GL_EXT_texture_filter_anisotropic GL_ARB_texture_border_clamp GL_ARB_point_parameters GL_ARB_texture_env_combine GL_ARB_texture_env_dot3 GL_ARB_texture_env_crossbar GL_EXT_texture_compression_s3tc GL_ARB_shadow GL_ARB_window_pos GL_EXT_shadow_funcs GL_EXT_stencil_wrap GL_ARB_vertex_program GL_EXT_texture_rectangle GL_ARB_fragment_program GL_EXT_stencil_two_side GL_ATI_separate_stencil GL_ARB_vertex_buffer_object GL_EXT_texture_lod_bias GL_ARB_occlusion_query GL_ARB_fragment_shader GL_ARB_shader_objects GL_ARB_shading_language_100 GL_ARB_texture_non_power_of_two GL_ARB_vertex_shader GL_NV_texgen_reflection GL_ARB_point_sprite GL_EXT_blend_equation_separate GL_ARB_depth_texture GL_ARB_texture_rectangle GL_ARB_draw_buffers GL_ARB_color_buffer_float GL_ARB_half_float_pixel GL_ARB_texture_float GL_ARB_pixel_buffer_object GL_EXT_framebuffer_object GL_ARB_draw_instanced GL_ARB_half_float_vertex GL_EXT_draw_buffers2 GL_WIN_swap_hint GL_EXT_texture_sRGB GL_ARB_multisample GL_EXT_packed_float GL_EXT_texture_shared_exponent GL_ARB_texture_rg GL_ARB_texture_compression_rgtc GL_NV_conditional_render GL_EXT_texture_swizzle GL_ARB_framebuffer_sRGB GL_EXT_packed_depth_stencil GL_ARB_depth_buffer_float GL_EXT_transform_feedback GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_ARB_framebuffer_object GL_EXT_texture_array GL_EXT_texture_integer GL_ARB_map_buffer_range GL_EXT_texture_snorm GL_INTEL_performance_queries GL_ARB_vertex_array_object 
+
+User locale: en-GB
+System locale: en-GB
+
+Running processes:
+BTPlayerCtrl.exe (10188)
+    path: C:\Program Files (x86)\Intel\Bluetooth\BTPlayerCtrl.exe
+    company:  Intel Corporation
+    product:  Intel PROSet\Wireless Bluetooth
+    filedesc: Bluetooth Media Player Controller
+    filever:  1.2.0.99
+    prodver:  1.2.0.99
+GitHub.exe (11624)
+    path: C:\Users\Morten Laptop\AppData\Local\Apps\2.0\VJMX0H5A.VK8\8OXKD96L.030\gith..tion_8f45a2159c87c850_0001.0000_4fca6a02c52cbc80\GitHub.exe
+    company:  GitHub, Inc.
+    product:  GitHub
+    filedesc: GitHub
+    filever:  1.0.33.2
+    prodver:  1.0.33.2
+ssh-agent.exe (10800)
+    path: C:\Users\Morten Laptop\AppData\Local\GitHub\PortableGit_93e8418133eb85e81a81e5e19c272776524496c6\bin\ssh-agent.exe
+    company:  
+    product:  
+    filedesc: 
+    filever:  0.0.0.0
+    prodver:  0.0.0.0
+AAM Updates Notifier.exe (7344)
+    path: C:\Program Files (x86)\Common Files\Adobe\OOBE\PDApp\UWA\AAM Updates Notifier.exe
+    company:  Adobe Systems Incorporated
+    product:  AAM Updates Notifier Application
+    filedesc: AAM Updates Notifier Application
+    filever:  1.0.175.0
+    prodver:  1.0.175.0
+Dropbox.exe (5116)
+    path: C:\Users\Morten Laptop\AppData\Roaming\Dropbox\bin\Dropbox.exe
+    company:  Dropbox, Inc.
+    product:  Dropbox
+    filedesc: Dropbox
+    filever:  1.6.16.0
+    prodver:  1.0.0.1
+AdobeARM.exe (14576)
+    path: C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\AdobeARM.exe
+    company:  Adobe Systems Incorporated
+    product:  Adobe Reader and Acrobat Manager
+    filedesc: Adobe Reader and Acrobat Manager
+    filever:  1.5.5.0
+    prodver:  1.5.5.0
+chrome.exe (6920)
+    path: C:\Users\Morten Laptop\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  24.0.1312.57
+    prodver:  24.0.1312.57
+chrome.exe (13664)
+    path: C:\Users\Morten Laptop\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  24.0.1312.57
+    prodver:  24.0.1312.57
+chrome.exe (8328)
+    path: C:\Users\Morten Laptop\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  24.0.1312.57
+    prodver:  24.0.1312.57
+chrome.exe (4960)
+    path: C:\Users\Morten Laptop\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  24.0.1312.57
+    prodver:  24.0.1312.57
+chrome.exe (4436)
+    path: C:\Users\Morten Laptop\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  24.0.1312.57
+    prodver:  24.0.1312.57
+chrome.exe (9596)
+    path: C:\Users\Morten Laptop\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  24.0.1312.57
+    prodver:  24.0.1312.57
+chrome.exe (11608)
+    path: C:\Users\Morten Laptop\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  24.0.1312.57
+    prodver:  24.0.1312.57
+chrome.exe (9600)
+    path: C:\Users\Morten Laptop\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  24.0.1312.57
+    prodver:  24.0.1312.57
+chrome.exe (14328)
+    path: C:\Users\Morten Laptop\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  24.0.1312.57
+    prodver:  24.0.1312.57
+chrome.exe (5340)
+    path: C:\Users\Morten Laptop\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  24.0.1312.57
+    prodver:  24.0.1312.57
+chrome.exe (14556)
+    path: C:\Users\Morten Laptop\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  24.0.1312.57
+    prodver:  24.0.1312.57
+chrome.exe (16724)
+    path: C:\Users\Morten Laptop\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  24.0.1312.57
+    prodver:  24.0.1312.57
+chrome.exe (8312)
+    path: C:\Users\Morten Laptop\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  24.0.1312.57
+    prodver:  24.0.1312.57
+Powershell.exe (15120)
+    path: C:\windows\SysWOW64\WindowsPowerShell\v1.0\Powershell.exe
+    company:  Microsoft Corporation
+    product:  Microsoft® Windows® Operating System
+    filedesc: Windows PowerShell
+    filever:  6.1.7600.16385
+    prodver:  6.1.7600.16385
+AcroRd32.exe (9352)
+    path: C:\Program Files (x86)\Adobe\Reader 10.0\Reader\AcroRd32.exe
+    company:  Adobe Systems Incorporated
+    product:  Adobe Reader
+    filedesc: Adobe Reader 
+    filever:  10.1.0.534
+    prodver:  10.1.0.534
+AcroRd32.exe (7440)
+    path: C:\Program Files (x86)\Adobe\Reader 10.0\Reader\AcroRd32.exe
+    company:  Adobe Systems Incorporated
+    product:  Adobe Reader
+    filedesc: Adobe Reader 
+    filever:  10.1.0.534
+    prodver:  10.1.0.534
+EXCEL.EXE (16644)
+    path: C:\Program Files (x86)\Microsoft Office\Office14\EXCEL.EXE
+    company:  Microsoft Corporation
+    product:  Microsoft Office 2010
+    filedesc: Microsoft Excel
+    filever:  14.0.6126.5003
+    prodver:  14.0.6126.0
+chrome.exe (5308)
+    path: C:\Users\Morten Laptop\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  24.0.1312.57
+    prodver:  24.0.1312.57
+chrome.exe (17052)
+    path: C:\Users\Morten Laptop\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  24.0.1312.57
+    prodver:  24.0.1312.57
+chrome.exe (16200)
+    path: C:\Users\Morten Laptop\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  24.0.1312.57
+    prodver:  24.0.1312.57
+devenv.exe (15492)
+    path: d:\Program Files\Visual Studio\Common7\IDE\devenv.exe
+    company:  Microsoft Corporation
+    product:  Microsoft® Visual Studio® 2010
+    filedesc: Microsoft Visual Studio 2010
+    filever:  10.0.40219.1
+    prodver:  10.0.40219.1
+chrome.exe (12436)
+    path: C:\Users\Morten Laptop\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  24.0.1312.57
+    prodver:  24.0.1312.57
+VCPkgSrv.exe (15684)
+    path: d:\Program Files\Visual Studio\VC\vcpackages\VCPkgSrv.exe
+    company:  Microsoft Corporation
+    product:  Microsoft® Visual Studio® 2010
+    filedesc: Microsoft (R) Visual C++ Package Server
+    filever:  10.0.40219.1
+    prodver:  10.0.40219.1
+chrome.exe (18004)
+    path: C:\Users\Morten Laptop\AppData\Local\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  24.0.1312.57
+    prodver:  24.0.1312.57
+UnityBugReporter.exe (18232)
+    path: D:\Program Files\Unity\UnityBugReporter.exe
+    company:  Unity Technologies ApS
+    product:  Unity Bug Reporter
+    filedesc: Unity Bug Reporter
+    filever:  4.0.0.62010
+    prodver:  4.0.0.62010
