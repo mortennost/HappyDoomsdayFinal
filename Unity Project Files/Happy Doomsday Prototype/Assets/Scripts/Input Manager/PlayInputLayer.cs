@@ -377,7 +377,7 @@ public class PlayInputLayer : InputLayer
 			cameraScript.SetDesiredPosition(newPosition);
 		}
 #endif
-		}
+		//} //Remove this for Web-player, keep bracket for iOS
 	}
 	
 	Vector3 CheckBounds(Vector3 newPosition)
